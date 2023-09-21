@@ -1,0 +1,10 @@
+@import url(styles/grid.css);
+@import url(styles/header.css);
+
+:root{
+    --branco: #FFFFFF;
+    --cor-de-fundo: #e0dcdc;
+    --amarelo: #ffe70d;
+    --fontesecundária: font-family: 'Handjet', cursive;
+    background-color: rgb(209,223,206,100%) ;
+}

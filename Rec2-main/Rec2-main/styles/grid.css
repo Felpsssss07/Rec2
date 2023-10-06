@@ -1,33 +1,35 @@
-.Imagem{
+
+ .Imagem{
     width: 80px!important;
     height: 60px!important;
 }
-.div-todasimagens{
+ .div-todasimagens{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
     text-align: center;
     margin-top: 25px;
     position: inherit;
 }
-.titulo{
+ .titulo{
     font-size: 30px;
     color:rgb(0, 141, 73, 100%);;
     margin-bottom: 7px;
     text-align: center;
 }
 
-@media screen {min-width: 1024px};   
+ @media screen {min-width: 1024px};   
 
-.titulo{
+ .titulo{
     display:block;
     font-size: 20px;
 
 }
-.Imagem{
+
+ .Imagem{
     height: 10px;
     border-top: 10px groove rgb(83, 189, 223, 100%);
     border-left:10px groove rgb(83, 189, 223, 100%); 
-    border-right: 10px groove rgb(83, 189, 223, 100%);;
+    border-right: 10px groove rgb(83, 189, 223, 100%);
     border-bottom: 10px groove rgb(83, 189, 223, 100%);
     width: 180px!important;
     height: 160px!important;
